@@ -1,0 +1,35 @@
+body {
+    background-color: #a89e9e;
+
+}
+.wow{
+    color: #252222;
+    display: block;
+    text-align: center ;
+
+}
+
+img{
+
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+button{
+    background-color: beige;
+    display: block;
+    margin: auto;
+}
+
+button:hover{
+    background: #000000;
+}
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+}
